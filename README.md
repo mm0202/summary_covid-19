@@ -5,6 +5,8 @@
 ## 日本
 [都道府県別新型コロナウイルス感染者数マップ](https://gis.jag-japan.com/covid19jp/)
 
+[東京都 新型コロナウイルス感染症対策サイト](https://stopcovid19.metro.tokyo.lg.jp/)
+
 
 ## 世界
 [新型コロナ感染 世界マップ：日経新聞](https://vdata.nikkei.com/newsgraphics/coronavirus-world-map/)
